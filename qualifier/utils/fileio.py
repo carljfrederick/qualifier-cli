@@ -31,10 +31,10 @@ def load_csv(csvpath):
 
 
 
-    def save_csv(csv_path, data, header=None): 
-        """Saves CSV file from the path provided. 
-        """
+def save_csv(csvpath, data, header=None):
+    """Saves the CSV file from path provided.
 
+    """
     with open(csvpath, "w", newline="") as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
         if header:
