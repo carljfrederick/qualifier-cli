@@ -110,12 +110,7 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
 
-def save_csv(csv_path, data, header=None): 
-    with open(csvpath, "w", newline="") as csvfile:
-        csvwriter = csv.writer(csvfile, delimiter=',')
-        if header:
-            csvwriter.writerow(header)
-        csvwriter.writerows(data)
+
     # @TODO: Complete the usability dialog for savings the CSV Files.
     # YOUR CODE HERE!
 
