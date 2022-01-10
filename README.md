@@ -1,33 +1,39 @@
-# Project Title
+# Qualifier CLI
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+This is a command line interface loan qualifier application that provide a lender and customer a list of banks that can offer loans to customers based on the financial data the customer inputs into the application. The application provides the customer the capability to save their qualifying loan(s). 
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+This project leverages python 3.7 with the following packages:
+
+fire: To add CLI interactivity
+
+questionary: For enhanced user prompts, dialog, and interactivity.
 
 ---
 
 ## Installation Guide
+The application executuion is dependent on the Fire and Questionary library installation. Install Fire and Questionary libaries from the Python Package Index using the pip command. 
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+pip install fire
+pip install questionary 
 
 ---
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+To use the qualifier cli application, clone the repository and run the app.py file. 
 
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+Contributions by Carl Frederick.
 
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+MIT. 
