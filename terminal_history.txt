@@ -1,0 +1,960 @@
+   50  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/list_practice.py"
+   51  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/list_practice.py"
+   52  clear
+   53  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/list_practice.py"
+   54  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/list_practice.py"
+   55  clear
+   56  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+   57  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+   58  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+   59  clear
+   60  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+   61  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+   62  /usr/bin/python3
+   63  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+   64  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+   65  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+   66  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+   67  clear
+   68  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+   69  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+   70  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+   71  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+   72  clear
+   73  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+   74  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+   75  clar
+   76  clear
+   77  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+   78  clear
+   79  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenge_One/loan_analyzer.py"
+   80  clear
+   81  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenge_One/loan_analyzer.py"
+   82  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenge_One/loan_analyzer.py"
+   83  clear
+   84  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenge_One/loan_analyzer.py"
+   85  clear
+   86  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenge_One/loan_analyzer.py"
+   87  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenge_One/loan_analyzer.py"
+   88  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenge_One/loan_analyzer.py"
+   89  clear
+   90  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_one_auto_valuing/loan_analyzer.py"
+   91  clear
+   92  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenge_One/loan_analyzer.py"
+   93  clear
+   94  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_one_auto_valuing/loan_analyzer.py"
+   95  clear
+   96  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenge_One/loan_analyzer.py"
+   97  clear
+   98  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_one_auto_valuing/loan_analyzer.py"
+   99  clear
+  100  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_one_auto_valuing/loan_analyzer.py"
+  101  clear
+  102  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_one_auto_valuing/loan_analyzer.py"
+  103  clear
+  104  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenge_One/loan_analyzer.py"
+  105  clear
+  106  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_one_auto_valuing/loan_analyzer.py"
+  107  clear
+  108  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenge_One/loan_analyzer.py"
+  109  clear
+  110  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_one_auto_valuing/loan_analyzer.py"
+  111  clear
+  112  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenge_One/loan_analyzer.py"
+  113  clear
+  114  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_one_auto_valuing/loan_analyzer.py"
+  115  clear
+  116  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_one_auto_valuing/loan_analyzer.py"
+  117  clear/usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenge_One/loan_analyzer.py"
+  118  clear
+  119  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenge_One/loan_analyzer.py"
+  120  clear
+  121  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_one_auto_valuing/loan_analyzer.py"
+  122  clear
+  123  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_one_auto_valuing/loan_analyzer.py"
+  124  clear
+  125  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_one_auto_valuing/loan_analyzer.py"
+  126  clear
+  127  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_one_auto_valuing/loan_analyzer.py"
+  128  clear
+  129  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_one_auto_valuing/loan_analyzer.py"
+  130  clear
+  131  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_one_auto_valuing/loan_analyzer.py"
+  132  clear
+  133  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_one_auto_valuing/loan_analyzer.py"
+  134  clear
+  135  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_one_auto_valuing/loan_analyzer.py"
+  136  clear
+  137  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_one_auto_valuing/loan_analyzer.py"
+  138  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  139  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  140  clear
+  141  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  142  clear
+  143  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  144  clear
+  145  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  146  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  147  clear
+  148  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  149  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  150  clear
+  151  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  152  clear
+  153  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  154  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  155  clear
+  156  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  157  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  158  clear
+  159  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  160  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  161  clear
+  162  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  163  clear
+  164  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  165  claer
+  166  clear
+  167  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  168  clar
+  169  clear
+  170  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  171  clear
+  172  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  173  clear
+  174  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  175  clear
+  176  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  177  clar
+  178  clear
+  179  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  180  clear
+  181  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  182  clear
+  183  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  184  clear
+  185  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  186  clear
+  187  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  188  clear
+  189  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  190  clear
+  191  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  192  clear
+  193  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  194  clear
+  195  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  196  clear
+  197  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  198  clear
+  199  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  200  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  201  clear
+  202  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  203  clear
+  204  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  205  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  206  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  207  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  208  clear
+  209  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  210  clear
+  211  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  212  clear
+  213  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  214  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  215  clear
+  216  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  217  git
+  218  clear
+  219  git version
+  220  git config list
+  221  git config --list
+  222  clear
+  223  cd pwd
+  224  pwd
+  225  ls
+  226  cd Fintech\ Bootcamp
+  227  ls
+  228  cd Challenges
+  229  ls
+  230  cd git_repos
+  231  ls
+  232  git clone git@github.com:carljfrederick/qualifier-cli.git
+  233  open .
+  234  ls
+  235  cd qualifier-cli
+  236  git add -A
+  237  git commit -m "commiting project files"
+  238  git push origin master
+  239  git push origin master
+  240  clear
+  241  ls
+  242  git push origin master
+  243  clear
+  244  cd ~
+  245  ls
+  246  pwd
+  247  git config --global carl.frederick
+  248  git config --global carljfrederick01@gmail.com
+  249  git config --list
+  250  git config --carljfrederick
+  251  clar
+  252  clear
+  253  git config --global carljfrederick
+  254  git config --global carljfrederick01@gmail.com
+  255  clear
+  256  ls
+  257  cd Fintech\ Bootcamp
+  258  ls
+  259  cd Challenge
+  260  cd Challenges
+  261  ls
+  262  cd git_repos
+  263  ls
+  264  cd qualifier-cli
+  265  ls
+  266  git add -A
+  267  git commit -m "commit project files"
+  268  git push origin master
+  269  git push origin main
+  270  ls
+  271  clear
+  272  conda activate dev
+  273  jupyter lab
+  274  conda deactivate
+  275  get status
+  276  git status
+  277  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/varibles.py"
+  278  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/varibles.py"
+  279  clear
+  280  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/varibles.py"
+  281  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/varibles.py"
+  282  clear
+  283  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/varibles.py"
+  284  clear
+  285  /usr/bin/python3
+  286  /usr/bin/python3
+  287  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/varibles.py"
+  288  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/varibles.py"
+  289  clear
+  290  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/varibles.py"
+  291  clear
+  292  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/varibles.py"
+  293  clear
+  294  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/varibles.py"
+  295  clear
+  296  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/varibles.py"
+  297  clear
+  298  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/varibles.py"
+  299  clear
+  300  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/varibles.py"
+  301  clear
+  302  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/varibles.py"
+  303  clear
+  304  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/varibles.py"
+  305  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/varibles.py"
+  306  clear
+  307  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/varibles.py"
+  308  clear
+  309  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/varibles.py"
+  310  clear
+  311  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_two_loan_qualifier/Starter_Code 2/loan_qualifier_app/app.py"
+  312  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_two_loan_qualifier/Starter_Code 2/loan_qualifier_app/app.py"
+  313  clear
+  314  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_two_loan_qualifier/Starter_Code 2/loan_qualifier_app/app.py"
+  315  clear
+  316  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_two_loan_qualifier/Starter_Code 2/loan_qualifier_app/app.py"
+  317  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_two_loan_qualifier/Starter_Code 2/loan_qualifier_app/app.py"
+  318  clear
+  319  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_two_loan_qualifier/Starter_Code 2/loan_qualifier_app/app.py"
+  320  clear
+  321  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_two_loan_qualifier/Starter_Code 2/loan_qualifier_app/app.py"
+  322  clear
+  323  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/challenge_two_loan_qualifier/Starter_Code 2/loan_qualifier_app/app.py"
+  324  clear
+  325  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  326  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  327  clear
+  328  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  329  clear
+  330  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  331  pwd
+  332  cd Challenges
+  333  ls
+  334  cd git_repos
+  335  ls
+  336  cd qualifier-cli
+  337  ls
+  338  pwd
+  339  python app.py
+  340  pwd
+  341  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  342  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  343  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  344  clear
+  345  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  346  clear
+  347  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  348  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  349  clear
+  350  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  351  clear
+  352  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  353  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  354  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  355  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  356  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"clear
+  357  clar
+  358  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"clear
+  359  clear
+  360  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  361  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  362  clear
+  363  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  364  clear
+  365  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  366  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  367  clear
+  368  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  369  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  370  clear
+  371  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  372  clear
+  373  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  374  clear
+  375  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  376  claer
+  377  clear
+  378  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  379  clear
+  380  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  381  clear
+  382  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/dictionaries.py"
+  383  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  384  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  385  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  386  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  387  clear
+  388  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  389  clear
+  390  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  391  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  392  clear
+  393  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  394  clear
+  395  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  396  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  397  clear
+  398  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  399  clear
+  400  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  401  clear
+  402  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  403  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  404  clear
+  405  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  406  clear/usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  407  clear
+  408  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  409  clear
+  410  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  411  clear
+  412  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  413  clear
+  414  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  415  clear
+  416  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  417  clear
+  418  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  419  CLEAR
+  420  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  421  CLEAR
+  422  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  423  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  424  clear
+  425  CLEAR
+  426  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  427  clear
+  428  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  429  clear
+  430  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  431  clear
+  432  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  433  clear
+  434  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  435  clear
+  436  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  437  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/list_practice.py"
+  438  clear
+  439  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  440  clear
+  441  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/first_program.py"
+  442  clear
+  443  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/dictionaries.py"
+  444  clear
+  445  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/dictionaries.py"
+  446  clear
+  447  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/dictionaries.py"
+  448  clear
+  449  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/dictionaries.py"
+  450  clear
+  451  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/dictionaries.py"
+  452  #clear
+  453  clear
+  454  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/dictionaries.py"
+  455  clear
+  456  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/dictionaries.py"
+  457  clear
+  458  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/dictionaries.py"
+  459  clear
+  460  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/dictionaries.py"
+  461  clear
+  462  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/dictionaries.py"
+  463  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  464  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  465  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  466  clear
+  467  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  468  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  469  clear
+  470  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  471  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  472  clear
+  473  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  474  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  475  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  476  clear
+  477  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  478  clear
+  479  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  480  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  481  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  482  clear
+  483  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  484  clear
+  485  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  486  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  487  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  488  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  489  clear
+  490  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  491  clear
+  492  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  493  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  494  claer
+  495  clear
+  496  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  497  clear
+  498  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  499  clear
+  500  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  501  clear
+  502  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  503  clear
+  504  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  505  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  506  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  507  clear
+  508  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  509  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  510  clear
+  511  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  512  clear
+  513  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  514  clear
+  515  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  516  clear
+  517  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  518  clear
+  519  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  520  clear
+  521  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  522  clear
+  523  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  524  clear
+  525  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  526  clear
+  527  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  528  clear
+  529  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  530  clear
+  531  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  532  clear
+  533  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  534  clear
+  535  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  536  clear
+  537  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  538  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  539  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  540  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  541  clear
+  542  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  543  clear
+  544  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  545  clear
+  546  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  547  clear
+  548  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  549  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  550  clear
+  551  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  552  clear
+  553  pwd
+  554  ls
+  555  cd Fintech\ Bootcamp
+  556  ls
+  557  cd Challenges
+  558  ls
+  559  cd git_repos
+  560  ls
+  561  cd qualifier-cli
+  562  ls
+  563  python app.py
+  564  clear
+  565  cond activate dev
+  566  conda activate dev
+  567  jupiter lab
+  568  jupiter lab
+  569  jupyter lab
+  570  conda deactivate
+  571  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  572  clear
+  573  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  574  clear
+  575  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  576  clear
+  577  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  578  clear
+  579  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  580  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  581  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  582  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  583  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  584  clear
+  585  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  586  clear
+  587  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  588  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  589  clear
+  590  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  591  clear
+  592  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  593  clear
+  594  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  595  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  596  clear
+  597  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  598  clear
+  599  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  600  clear
+  601  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  602  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  603  clear
+  604  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  605  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  606  clear
+  607  /usr/bin/python3 "/Users/cjf2/Fintech Bootcamp/Practice/Module 1/functions.py"
+  608  clear
+  609  conda activate dev
+  610  jupyterlab
+  611  JupyterLab
+  612  Jupyter
+  613  jupyter lab
+  614  conda activate dev
+  615  ls
+  616  cd Fintech\ Bootcamp
+  617  ls
+  618  cd Week_3
+  619  ls
+  620  cd 01_Importing_the_VIX
+  621  ls
+  622  cd Solved
+  623  ls
+  624  ls
+  625  pwd
+  626  ls
+  627  cd Fintech\ Bootcamp
+  628  ls
+  629  cd Week_3
+  630  ls
+  631  cd 01_Importing_the_VIX
+  632  ls
+  633  cd Unsolved
+  634  ls
+  635  cd ..
+  636  conda activate dev
+  637  jupyter lab
+  638  conda deactive
+  639  cd ~
+  640  ls
+  641  conda activate dev
+  642  jupyter lab
+  643  conda deactivate
+  644  pwd
+  645  conda activate dev
+  646  jupyter lab
+  647  conda deactivate
+  648  conda activiate dev
+  649  conda activate dev
+  650  jupyter lab
+  651  conda deactivate
+  652  conda activate dev
+  653  jupyter lab
+  654  conda deactivate
+  655  conda activate dev
+  656  jupyter lab
+  657  conda activate dev
+  658  jupyter lab
+  659  /usr/bin/python "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  660  clear
+  661  /usr/bin/python "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  662  clear
+  663  /usr/bin/python "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  664  /usr/bin/python "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  665  /usr/bin/python "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  666  /usr/bin/python "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  667  conda activate dev
+  668  cd
+  669  ls
+  670  cd Fintech
+  671  cd Fintech\ Bootcamp
+  672  ls
+  673  cd Challenges
+  674  ls
+  675  cd git_repos
+  676  ls
+  677  cd qualifier-cli
+  678  ls
+  679  python app.py
+  680  pip install questionary
+  681  ls
+  682  python app.py
+  683  conda activate dev
+  684  pwd
+  685  cd
+  686  ls
+  687  cd Fintech\ Bootcamp
+  688  ls
+  689  cd Challenges
+  690  ls
+  691  cd git_repos
+  692  ls
+  693  cd qualifier-cli
+  694  ls
+  695  python app.py
+  696  cd Fintech\ Bootcamp
+  697  ls
+  698  cd Challenges
+  699  ls
+  700  cd git_repos
+  701  ls
+  702  cd qualifier-cli
+  703  ls
+  704  git stutus
+  705  clear
+  706  conda actviate dev
+  707  conda activate dev
+  708  cd Fint
+  709  pwd
+  710  clear
+  711  ls
+  712  git status
+  713  cd ~
+  714  git config --global user.Car Frederick
+  715  git config --global user.name <Carl Frederick>
+  716  clear
+  717  pwd
+  718  git config --global user.name carljfrederick
+  719  clear
+  720  conda deactivate
+  721  cd Fintech\ Bootcamp
+  722  ls
+  723  cd Challenges
+  724  ls
+  725  cd git_repos
+  726  ls
+  727  cd qualifier-cli
+  728  ls
+  729  git status
+  730  cd ~
+  731  clear
+  732  git config --global user.name carljfrederick
+  733  git config --global user.name carljfrederick
+  734  lear
+  735  clear
+  736  cd Fintech\ Bootcamp
+  737  ls
+  738  cd Challenges
+  739  ls
+  740  cd git_repos
+  741  ls
+  742  cd qualifier-cli
+  743  ls
+  744  git status
+  745  cd ~
+  746  xcode-select --install
+  747  git status
+  748  pwd
+  749  clear
+  750  cd Fintech\ Bootcamp
+  751  ls
+  752  cd Challenges
+  753  ls
+  754  cd git_repos
+  755  ls
+  756  cd qualifier-cli
+  757  ls
+  758  git status
+  759  git add app.py
+  760  git status
+  761  git commit -m "Added csv_read function that uses csv library to save quailifying data as a file."
+  762  git push 
+  763  clear
+  764  ls
+  765  git status
+  766  python app.py
+  767  clear
+  768  git status
+  769  git add app.py qualifier/utils/fileio.py
+  770  git status
+  771  git commit -m "Integrated save_csv function in fileio.py module."
+  772  git push
+  773  git status
+  774  git status
+  775  git add .app.py
+  776  git add app.py
+  777  git status
+  778  git commit -m "Removed save_csv from app.py."
+  779  git push
+  780  clear
+  781  ls
+  782  python app.py
+  783  python app.py
+  784  clear
+  785  app.py
+  786  python app.py
+  787  clear
+  788  ls
+  789  python app.py
+  790  clear
+  791  python app.py
+  792  clear
+  793  get status
+  794  git status
+  795  git commit -fileio.py
+  796  clear
+  797  git status
+  798  git add qualifier/utils/fileio.py
+  799  git status
+  800  git commit -m "Corrected save_csv function in fileip.py"
+  801  git push
+  802  clear
+  803  python app.py
+  804  clear
+  805  clear
+  806  python app.py
+  807  clear
+  808  pthon app.py
+  809  python app.py
+  810  clear
+  811  python app.py
+  812  clear
+  813  python app.py
+  814  clear
+  815  python app.py
+  816  python app.py
+  817  python app.py
+  818  python app.py
+  819  clear
+  820  python app.py
+  821  clear
+  822  python app.py
+  823  python app.py
+  824  python app.py
+  825  clear
+  826  python app.py
+  827  clear
+  828  python
+  829  python app.py
+  830  python app.py
+  831  clear
+  832  python app.py
+  833  clear
+  834  python app.py
+  835  python app.py
+  836  clear
+  837  python app.py
+  838  python app.py
+  839  python app.py
+  840  clear
+  841  python app.py
+  842  python app.py
+  843  python app.py
+  844  python app.py
+  845  python app.py
+  846  clear
+  847  python app.py
+  848  python app.py
+  849  python app.py
+  850  clear
+  851  python app.py
+  852  conda activate dev
+  853  cd Fintech\ Bootcamp
+  854  ls
+  855  cd Challenges
+  856  ls
+  857  cd git_repos
+  858  ls
+  859  cd qualifier-cli
+  860  ls
+  861  python app.py
+  862  clear
+  863  python app.py
+  864  python app.py
+  865  cd Fintech\ Bootcamp
+  866  ls
+  867  cd Challenges
+  868  ls
+  869  cd git_repos
+  870  ls
+  871  cd qualifier-cli
+  872  ls
+  873  python app.py
+  874  conda activate dev
+  875  comitt status
+  876  git status
+  877  git add qualifier/utils/fileio.py
+  878  git status
+  879  git commit -m "Added save diaglog to existing CLI."
+  880  git push
+  881  git reset --hard HEAD^
+  882  python app.py
+  883  conda activate dev
+  884  ls
+  885  cd Fintech\ Bootcamp
+  886  ls
+  887  cd Challenges
+  888  ls
+  889  cd git_repos
+  890  ls
+  891  cd qualifier-cli
+  892  ls
+  893  python app.py
+  894  python app.py
+  895  python app.py
+  896  git status
+  897  git add app.py
+  898  status
+  899  git status
+  900  get commit -m "Added save dialog to existing CLI".clear
+  901  git status
+  902  git add app.py
+  903  git status
+  904  git commit -m "Added save dialog to existing CLI."
+  905  git push
+  906  git stauts
+  907  git stutus
+  908  git status
+  909  git pull
+  910  conda activate dev
+  911  cd Fintech\ Bootcamp
+  912  ls
+  913  cd Challenges
+  914  ls
+  915  cd git_repos
+  916  ls
+  917  cd qualifier-cli
+  918  ls
+  919  python app.py
+  920  git status
+  921  git status
+  922  git commit
+  923  conda activate dev
+  924  cd Fintech\ Bootcamp
+  925  ls
+  926  cd Challenge
+  927  cd Challenges
+  928  ls
+  929  cd git_repos
+  930  ls
+  931  cd qualifier-cli
+  932  ls
+  933  git status
+  934  git add app.py
+  935  git status
+  936  conda activate dev
+  937  ls
+  938  cd Fintech\ Bootcamp
+  939  cd Challenges
+  940  cd git_repos
+  941  ls
+  942  cd qualifier-cli
+  943  ls
+  944  git status
+  945  git add app.py
+  946  git status
+  947  git commit "Added save dialog to CLI"
+  948  git status
+  949  git commit -m "Added save dialog to CLI"
+  950  git push
+  951  /usr/bin/python "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  952  /usr/bin/python "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  953  /usr/bin/python "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  954  clear
+  955  /usr/bin/python "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  956  clear
+  957  /usr/bin/python "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  958  /usr/bin/python "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  959  clear
+  960  /usr/bin/python "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  961  /usr/bin/python "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  962  clear
+  963  /usr/bin/python "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  964  clear
+  965  /usr/bin/python "/Users/cjf2/Fintech Bootcamp/Week_2/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py"
+  966  /usr/bin/python "/Users/cjf2/Fintech Bootcamp/Challenges/git_repos/qualifier-cli/app.py"
+  967  conda activate dev
+  968  cd Fintech\ Bootcamp
+  969  ls
+  970  cd Challenges
+  971  ls
+  972  cd git_repos
+  973  ls
+  974  cd qualifier-cli
+  975  ls
+  976  python app.py
+  977  conda activate dev
+  978  cd Fintech\ Bootcamp
+  979  cd Challenges
+  980  ls
+  981  cd git_repos
+  982  ls
+  983  cd qualifier-cli
+  984  ls
+  985  git status
+  986  git add README.md
+  987  git status
+  988  git add -m "Qualifier CLI README.md"
+  989  git status
+  990  git push
+  991  git status
+  992  git status
+  993  git push
+  994  git status
+  995  git status
+  996  git add README.md
+  997  git status
+  998  git commit -m "Qualifier CLI README.md"
+  999  git push
+ 1000  git status
+ 1001  conda activate dev
+ 1002  cd Fintech\ Bootcamp
+ 1003  ls
+ 1004  cd Challenges
+ 1005  ls
+ 1006  cd git_repos
+ 1007  ls
+ 1008  cd qualifier-cli
+ 1009  ls
